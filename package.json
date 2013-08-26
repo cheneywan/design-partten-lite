@@ -1,0 +1,27 @@
+{
+  "name": "design-partten-lite",
+  "version": "0.0.0",
+  "description": "design-partten-lite =================== Practising design partten 4 javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cheneywan/design-partten-lite.git"
+  },
+  "keywords": [
+    "desing",
+    "partten"
+  ],
+  "author": "cheney",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/cheneywan/design-partten-lite/issues"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
